@@ -1,0 +1,6 @@
+{
+  "name": "Phòng Trưng Bày 3D Tương Tác",
+  "description": "Ứng dụng triển lãm 3D giáo dục dành cho giáo viên và học sinh THCS trưng bày dự án STEM, khoa học, nghệ thuật",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

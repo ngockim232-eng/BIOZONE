@@ -1,0 +1,56 @@
+[
+  {
+    "id": "acc-1",
+    "username": "hs01",
+    "password": "123",
+    "name": "Trần Minh Khang",
+    "className": "7/1",
+    "roomCode": "BIO-7A1",
+    "createdAt": "2026-11-12T12:54:02.876Z"
+  },
+  {
+    "id": "acc-2",
+    "username": "hs02",
+    "password": "123",
+    "name": "Lê Thùy Dung",
+    "className": "7/1",
+    "roomCode": "BIO-7A1",
+    "createdAt": "2026-11-12T12:54:02.876Z"
+  },
+  {
+    "id": "acc-3",
+    "username": "hs03",
+    "password": "123",
+    "name": "Nhóm Tế Bào Sống",
+    "className": "7/1",
+    "roomCode": "BIO-7A1",
+    "createdAt": "2026-11-12T12:54:02.876Z"
+  },
+  {
+    "id": "acc-4",
+    "username": "hs04",
+    "password": "123",
+    "name": "Nhóm Sinh Thái Xanh",
+    "className": "7/1",
+    "roomCode": "BIO-7A1",
+    "createdAt": "2026-11-12T12:54:02.876Z"
+  },
+  {
+    "id": "acc-5",
+    "username": "hs05",
+    "password": "123",
+    "name": "Hoàng Quốc Bảo",
+    "className": "7/2",
+    "roomCode": "BIO-7A1",
+    "createdAt": "2026-11-12T12:54:02.876Z"
+  },
+  {
+    "id": "acc-6",
+    "username": "hs06",
+    "password": "123",
+    "name": "Vũ Ngọc Hân",
+    "className": "7/4",
+    "roomCode": "BIO-7A1",
+    "createdAt": "2026-11-12T12:54:02.876Z"
+  }
+]

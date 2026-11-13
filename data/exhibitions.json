@@ -1,0 +1,360 @@
+[
+  {
+    "id": "room-biozone-7a1",
+    "code": "BIO-7A1",
+    "title": "BIOZONE- KHÔNG GIAN SÁNG TẠO SINH HỌC",
+    "theme": "🧬 BIOZONE – SINH HỌC & TẾ BÀO",
+    "description": "Không gian triển lãm số 3D dành riêng cho các dự án KHTN THCS",
+    "teacherName": "Cô Trần Thị Kim Ngọc",
+    "teacherEmail": "ngockim232@gmail.com",
+    "schoolName": "Trường PTDTBT TH&THCS Lý Tự Trọng",
+    "className": "7/1",
+    "spaceStyle": "classic",
+    "startDate": "2026-10-01",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "privacy": "public",
+    "maxVotesPerStudent": 3,
+    "showLeaderboard": true,
+    "visitorCount": 249,
+    "createdAt": "2026-11-13T02:24:52.445Z",
+    "hallOfFame": {
+      "welcomeBanner": "Vinh danh tinh thần say mê khám phá thế giới sinh vật học của học sinh",
+      "topTeamHonorTitle": "CÚP VÀNG SÁNG TẠO BIOZONE 2026",
+      "topTeamName": "Nhóm Sinh Thái Xanh",
+      "topTeamProjectTitle": "Mô hình hệ sinh thái tuần hoàn",
+      "teacherCommendation": "Khen ngợi nhóm đã có tư duy mô hình hóa chu trình sinh địa hóa xuất sắc, tính thực tiễn cao và khả năng tự cân bằng độ ẩm ấn tượng trong 30 ngày.",
+      "honoredAwardDate": "2026-11-10"
+    },
+    "reflections": [
+      {
+        "id": "ref-1",
+        "studentName": "Trần Minh Khang",
+        "studentClass": "7/2",
+        "mostImpressive": "Mô hình tế bào thực vật 3D và hệ sinh thái tuần hoàn.",
+        "whatILearned": "Hiểu được cấu trúc không bào, lục lạp và chu trình quang hợp sinh oxy trong tế bào lá cây.",
+        "favoriteProduct": "Mô hình cấu trúc tế bào thực vật 3D từ đất sét sinh học",
+        "ideaToTry": "Em muốn thử làm tiêu bản biểu bì củ hành tím để quan sát dưới kính hiển vi tại nhà.",
+        "createdAt": "2026-11-12T21:24:52.445Z"
+      },
+      {
+        "id": "ref-2",
+        "studentName": "Lê Thùy Dung",
+        "studentClass": "7/1",
+        "mostImpressive": "Các bạn thuyết minh rất tự tin và mô hình nuôi cấy nấm men hoạt động thật.",
+        "whatILearned": "Hiểu được vai trò của nấm men trong lên men đường tạo bọt khí CO2 và làm bánh mì.",
+        "favoriteProduct": "Thí nghiệm lên men nấm men Saccharomyces cerevisiae",
+        "ideaToTry": "Cùng nhóm bạn làm vườn rau mầm khí canh mini trên ban công lớp học.",
+        "createdAt": "2026-11-13T00:24:52.445Z"
+      }
+    ],
+    "products": [
+      {
+        "id": "prod-bio-1",
+        "title": "Mô hình cấu trúc tế bào thực vật 3D từ đất sét sinh học",
+        "author": "Nhóm Tế Bào Sống (Minh Anh, Tuấn Kiệt)",
+        "groupCode": "BIO-01",
+        "className": "7/1",
+        "subject": "Khoa học tự nhiên (Sinh học 7)",
+        "theme": "TẾ BÀO HỌC & DI TRUYỀN",
+        "description": "Mô hình giải phẫu chi tiết tế bào thực vật có lát cắt nhìn thấu lục lạp, không bào trung tâm, nhân tế bào và màng xenlulôzơ.",
+        "idea": "Xuất phát từ bài học quan sát tế bào dưới kính hiển vi, nhóm muốn biến hình ảnh 2D trên sách giáo khoa thành mô hình 3D sờ nắm trực quan.",
+        "process": "Bước 1: Tạo khuôn màng tế bào bằng thạch agar và đất sét tự khô an toàn.\nBước 2: Nặn các bào quan: lục lạp có các hạt grana xếp lớp, ti thể, lưới nội chất hạt, nhân tế bào chứa chất nhiễm sắc.\nBước 3: Gắn đèn LED dạ quang mô phỏng dòng vận chuyển chất tế bào chất.\nBước 4: Gắn thẻ chú thích tên khoa học từng bào quan.",
+        "result": "Mô hình trực quan tỷ lệ phóng đại x10.000 lần, giúp cả lớp ghi nhớ ngay 8 bào quan chính chỉ sau 5 phút.",
+        "highlights": "Có hệ thống đèn LED phân tầng các bào quan và tương tác lật mở xem cấu trúc bên trong lục lạp.",
+        "message": "Tế bào là đơn vị cơ sở kỳ diệu cấu tạo nên mọi sự sống trên Trái Đất.",
+        "teacherAdvisor": "Cô Trần Thị Kim Ngọc",
+        "primaryImage": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?auto=format&fit=crop&w=1000&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?auto=format&fit=crop&w=1000&q=80",
+          "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1000&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+        "views": 216,
+        "likes": 64,
+        "interactiveQuestions": [
+          {
+            "id": "q-bio-1",
+            "question": "Tại sao tế bào thực vật có hình đa giác cố định còn tế bào động vật thì không?"
+          },
+          {
+            "id": "q-bio-2",
+            "question": "Bào quan nào đóng vai trò chuyển hóa quang năng thành hóa năng trong mô hình?"
+          }
+        ],
+        "votes": [
+          {
+            "studentName": "Võ Minh Quân",
+            "studentClass": "7/3",
+            "voteType": "impressive",
+            "createdAt": "2026-11-12T02:24:52.445Z"
+          },
+          {
+            "studentName": "Đặng Mai Lan",
+            "studentClass": "7/1",
+            "voteType": "creative",
+            "createdAt": "2026-11-12T06:24:52.445Z"
+          },
+          {
+            "studentName": "Bùi Hải Đăng",
+            "studentClass": "7/2",
+            "voteType": "favorite",
+            "createdAt": "2026-11-12T16:24:52.445Z"
+          },
+          {
+            "studentName": "Nguyễn Thảo Ly",
+            "studentClass": "7/4",
+            "voteType": "impressive",
+            "createdAt": "2026-11-12T21:24:52.445Z"
+          }
+        ],
+        "comments": [
+          {
+            "id": "c-1",
+            "studentName": "Hoàng Quốc Bảo",
+            "studentClass": "7/2",
+            "comment": "Lục lạp nặn màu xanh ngọc rất đẹp! Các bạn chú thích tên bào quan rất rõ ràng.",
+            "reaction": "❤️",
+            "createdAt": "2026-11-12T16:24:52.445Z",
+            "isPinned": true
+          }
+        ],
+        "answers": [
+          {
+            "id": "ans-1",
+            "questionId": "q-bio-1",
+            "studentName": "Hoàng Quốc Bảo",
+            "answer": "Vì tế bào thực vật có thành tế bào dày cấu tạo từ xenlulôzơ giúp nâng đỡ và cố định hình dạng.",
+            "createdAt": "2026-11-12T16:24:52.445Z"
+          }
+        ]
+      },
+      {
+        "id": "prod-bio-2",
+        "title": "Mô hình hệ sinh thái tuần hoàn & chu trình Cacbon",
+        "author": "Nhóm Sinh Thái Xanh (Thanh Hằng, Đức Phúc, Gia Huy)",
+        "groupCode": "BIO-02",
+        "className": "7/1",
+        "subject": "Khoa học tự nhiên (Sinh học)",
+        "theme": "MÔI TRƯỜNG & SINH THÁI",
+        "description": "Mô hình sinh thái khép kín mô phỏng chu trình nước, cacbon và chuỗi thức ăn trong đầm lầy nhiệt đới thu nhỏ.",
+        "idea": "Xuất phát từ bài học về chu trình sinh địa hóa, nhóm muốn tạo ra một sinh cảnh mini tự duy trì sự sống mà không cần can thiệp thường xuyên từ bên ngoài.",
+        "process": "Bước 1: Chuẩn bị bể kính, lớp sỏi thoát nước, than hoạt tính, đất dinh dưỡng.\nBước 2: Trồng các loài rêu, dương xỉ và thả vi sinh vật có lợi.\nBước 3: Thiết lập hệ thống phun sương tuần hoàn và đèn LED quang hợp hẹn giờ.\nBước 4: Theo dõi và ghi nhật ký sinh trưởng trong 4 tuần.",
+        "result": "Hệ thống duy trì độ ẩm ổn định 85%, cây cối phát triển xanh tốt, chu trình nước tự bốc hơi ngưng tụ thành giọt mưa nhân tạo.",
+        "highlights": "Khả năng tự cân bằng độ ẩm và chu trình quang hợp 100% tự nhiên không cần tưới nước trong 30 ngày.",
+        "message": "Bảo vệ từng mắt xích nhỏ nhất trong tự nhiên chính là bảo vệ sự sống của Trái Đất.",
+        "teacherAdvisor": "Cô Trần Thị Kim Ngọc",
+        "primaryImage": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=1000&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=1000&q=80",
+          "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1000&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+        "views": 198,
+        "likes": 58,
+        "interactiveQuestions": [
+          {
+            "id": "q1",
+            "question": "Theo em, tại sao than hoạt tính lại quan trọng trong chu trình lọc đất kín?"
+          }
+        ],
+        "votes": [
+          {
+            "studentName": "Trịnh Nhật Minh",
+            "studentClass": "7/2",
+            "voteType": "creative",
+            "createdAt": "2026-11-12T09:44:52.445Z"
+          },
+          {
+            "studentName": "Vũ Ngọc Hân",
+            "studentClass": "7/4",
+            "voteType": "good_idea",
+            "createdAt": "2026-11-12T15:18:12.445Z"
+          },
+          {
+            "studentName": "Ngô Đức Trí",
+            "studentClass": "7/1",
+            "voteType": "impressive",
+            "createdAt": "2026-11-12T20:51:32.445Z"
+          }
+        ],
+        "comments": [
+          {
+            "id": "c-3",
+            "studentName": "Trịnh Nhật Minh",
+            "studentClass": "7/2",
+            "comment": "Mô hình rất mát mắt và sống động, rất hợp với chủ đề Biozone!",
+            "reaction": "👍",
+            "createdAt": "2026-11-12T12:31:32.445Z",
+            "isPinned": true
+          }
+        ],
+        "answers": []
+      },
+      {
+        "id": "prod-bio-3",
+        "title": "Vườn rau thủy canh hồi lưu mini tự động quang hợp",
+        "author": "Nhóm BioTech (Tuấn Kiệt, Minh Anh, Gia Huy)",
+        "groupCode": "BIO-03",
+        "className": "7/1",
+        "subject": "Sinh học & Công nghệ",
+        "theme": "CÔNG NGHỆ SINH HỌC 4.0",
+        "description": "Mô hình giàn trồng rau xà lách thủy canh trong phòng học sử dụng dung dịch dinh dưỡng hữu cơ và đèn LED quang hợp chuyên dụng.",
+        "idea": "Nghiên cứu tốc độ sinh trưởng của thực vật khi được cung cấp đầy đủ quang phổ xanh đỏ (450nm - 660nm) trong môi trường không dùng đất.",
+        "process": "Bước 1: Pha chế dung dịch dinh dưỡng Knop loãng nồng độ PPM 600.\nBước 2: Ươm hạt rau muống và xà lách mầm trong giá thể xơ dừa tiệt trùng.\nBước 3: Lắp đặt bơm tuần hoàn hẹn giờ 15 phút tưới - 45 phút nghỉ.\nBước 4: Đo chỉ số diện tích lá và chiều cao rễ mỗi tuần.",
+        "result": "Rau phát triển nhanh hơn 35% so với trồng đất thông thường, rễ trắng muốt không sâu bệnh.",
+        "highlights": "Hệ sinh thái thủy canh khép kín, sạch 100% không dùng thuốc bảo vệ thực vật.",
+        "message": "Nông nghiệp đô thị công nghệ cao vì bữa ăn an toàn học đường.",
+        "teacherAdvisor": "Cô Trần Thị Kim Ngọc",
+        "primaryImage": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=1000&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=1000&q=80",
+          "https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?auto=format&fit=crop&w=1000&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+        "views": 184,
+        "likes": 51,
+        "interactiveQuestions": [
+          {
+            "id": "q-bio-3",
+            "question": "Tại sao rễ cây trong hệ thủy canh cần có khoảng nghỉ để tiếp xúc với không khí?"
+          }
+        ],
+        "votes": [
+          {
+            "studentName": "Đặng Tuấn Anh",
+            "studentClass": "7/1",
+            "voteType": "good_idea",
+            "createdAt": "2026-11-12T15:18:12.445Z"
+          },
+          {
+            "studentName": "Trần Hải Vy",
+            "studentClass": "7/3",
+            "voteType": "impressive",
+            "createdAt": "2026-11-12T23:38:12.445Z"
+          }
+        ],
+        "comments": [],
+        "answers": []
+      },
+      {
+        "id": "prod-bio-4",
+        "title": "Mô hình giải phẫu tim & hệ tuần hoàn kép ở người",
+        "author": "Nhóm Y Sinh Nhí (Quang Huy, Bảo Ngọc)",
+        "groupCode": "BIO-04",
+        "className": "7/1",
+        "subject": "Khoa học tự nhiên (Cơ thể người)",
+        "theme": "GIẢI PHẪU & SỨC KHỎE",
+        "description": "Mô hình thủy lực mô phỏng dòng máu đỏ giàu oxy và máu đỏ thẫm giàu CO2 lưu thông qua 4 ngăn tim và 2 vòng tuần hoàn.",
+        "idea": "Giúp học sinh dễ hiểu con đường đi của vòng tuần hoàn lớn (nuôi cơ thể) và vòng tuần hoàn nhỏ (trao đổi khí ở phổi).",
+        "process": "Bước 1: Đúc tim 4 ngăn (2 tâm nhĩ, 2 tâm thất) và hệ van tim 1 chiều.\nBước 2: Dùng 2 ống màu đỏ và xanh dẫn dung dịch màu mô phỏng máu.\nBước 3: Lắp xi-lanh trợ lực bóp nhịp nhàng mô phỏng pha co tâm nhĩ và tâm thất.\nBước 4: Thử nghiệm lưu lượng dòng chảy và áp lực van tim.",
+        "result": "Mô phỏng chân thực nhịp đập tim 75 lần/phút, van tổ chim và van nhĩ thất đóng mở chuẩn xác.",
+        "highlights": "Van tim 1 chiều tự chế hoạt động hoàn hảo ngăn dòng máu chảy ngược.",
+        "message": "Trái tim khỏe mạnh bắt đầu từ chế độ vận động và ăn uống khoa học.",
+        "teacherAdvisor": "Cô Trần Thị Kim Ngọc",
+        "primaryImage": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1000&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1000&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+        "views": 160,
+        "likes": 47,
+        "interactiveQuestions": [
+          {
+            "id": "q-bio-4",
+            "question": "Máu ở nửa bên trái của quả tim là máu giàu oxy hay nghèo oxy?"
+          }
+        ],
+        "votes": [
+          {
+            "studentName": "Vũ Đức Thịnh",
+            "studentClass": "7/2",
+            "voteType": "creative",
+            "createdAt": "2026-11-12T18:04:52.445Z"
+          }
+        ],
+        "comments": [],
+        "answers": []
+      },
+      {
+        "id": "prod-bio-5",
+        "title": "Bộ sưu tập tiêu bản giải phẫu thực vật & lá cây ép khô",
+        "author": "Nhóm Thực Vật Trẻ (Phương Linh, Khánh Huyền, Đăng Khoa)",
+        "groupCode": "BIO-05",
+        "className": "7/1",
+        "subject": "Mỹ thuật & Sinh học (Bio-Art)",
+        "theme": "NGHỆ THUẬT SINH HỌC",
+        "description": "Bộ sưu tập 30 tiêu bản hiển vi khí khổng lá thài lài tía, gân lá bồ đề và tranh nghệ thuật sinh thái bảo tồn đa dạng thực vật.",
+        "idea": "Kết hợp mỹ thuật ứng dụng và kiến thức sinh học hình thái lá để tạo nên những tác phẩm trưng bày lưu niệm học đường.",
+        "process": "Bước 1: Thu thập mẫu lá đa dạng hình thái (lá kép, lá đơn, gân lá song song và hình mạng).\nBước 2: Xử lý khử diệp lục bằng dung dịch kiềm loãng an toàn để giữ lại bộ khung gân lá.\nBước 3: Nhuộm màu thực phẩm hữu cơ và ép chân không tiêu bản.\nBước 4: Đóng khung gỗ kèm mã QR tra cứu tên khoa học từng loài cây.",
+        "result": "Tạo nên 30 tiêu bản nghệ thuật tuyệt đẹp bền vững không phai màu theo năm tháng.",
+        "highlights": "Giữ nguyên 100% mạng lưới mạch rây và mạch gỗ tinh xảo của gân lá tự nhiên.",
+        "message": "Mỗi chiếc lá rơi đều là một kỳ quan kiến trúc của Mẹ Thiên Nhiên.",
+        "teacherAdvisor": "Cô Trần Thị Kim Ngọc",
+        "primaryImage": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+          "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+        "views": 175,
+        "likes": 54,
+        "interactiveQuestions": [
+          {
+            "id": "q-bio-5",
+            "question": "Mặt dưới của lá cây thường có nhiều khí khổng hơn mặt trên có ý nghĩa thích nghi gì?"
+          }
+        ],
+        "votes": [
+          {
+            "studentName": "Nguyễn Bích Ngọc",
+            "studentClass": "7/4",
+            "voteType": "favorite",
+            "createdAt": "2026-11-12T12:31:32.445Z"
+          }
+        ],
+        "comments": [],
+        "answers": []
+      },
+      {
+        "id": "prod-bio-6",
+        "title": "Mô hình bảo vệ rạn san hô & rừng ngập mặn sinh thái",
+        "author": "Nhóm Vì Biển Đảo (Thanh Hằng, Mai Anh)",
+        "groupCode": "BIO-06",
+        "className": "7/1",
+        "subject": "Sinh học & Địa lí",
+        "theme": "HỆ SINH THÁI & MÔI TRƯỜNG",
+        "description": "Mô hình sa bàn động sinh học chứng minh rạn san hô và rừng ngập mặn là lá chắn sống giảm 70% sóng biển triều cường.",
+        "idea": "Nâng cao ý thức bảo vệ tài nguyên sinh vật biển đảo thiêng liêng của Tổ quốc Việt Nam.",
+        "process": "Bước 1: Đắp sa bàn thềm lục địa và bãi bồi ven biển.\nBước 2: Đan hệ rễ chân nơm của cây đước bằng sợi dừa tự nhiên.\nBước 3: Tạo sóng nhân tạo để quan sát khả năng tiêu giảm áp lực nước.\nBước 4: Ghi nhận số liệu thực nghiệm khoa học.",
+        "result": "Chứng minh rễ đước giữ lại hơn 80% trầm tích phù sa và che chở cho ấu trùng tôm cá.",
+        "highlights": "Thực nghiệm trực quan sống động với cơ cấu tạo sóng cơ học.",
+        "message": "Rừng đước giữ bờ, san hô chở che đại dương Tổ quốc.",
+        "teacherAdvisor": "Cô Trần Thị Kim Ngọc",
+        "primaryImage": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1000&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1000&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+        "views": 188,
+        "likes": 62,
+        "interactiveQuestions": [
+          {
+            "id": "q-bio-6",
+            "question": "Hệ rễ chân nơm của cây đước giúp cây đứng vững thế nào trong môi trường bùn lầy ven biển?"
+          }
+        ],
+        "votes": [
+          {
+            "studentName": "Trần Duy Anh",
+            "studentClass": "7/3",
+            "voteType": "good_idea",
+            "createdAt": "2026-11-12T22:14:52.445Z"
+          }
+        ],
+        "comments": [],
+        "answers": []
+      }
+    ]
+  }
+]
