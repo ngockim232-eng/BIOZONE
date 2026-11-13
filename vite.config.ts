@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:'/BIOZONE/',
+    base: '/BIOZONE/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
